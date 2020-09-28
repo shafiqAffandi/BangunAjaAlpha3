@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bangun Aja Alpha 3</string>
+    <string name="password_text">Password</string>
+    <string name="username_text">Username</string>
+    <string name="confirm_password_text">Confirm Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="companyHire">Contractor :</string>
+</resources>
